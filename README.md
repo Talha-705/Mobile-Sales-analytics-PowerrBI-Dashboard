@@ -5,7 +5,7 @@ Interactive Power BI dashboard analyzing mobile sales performance, regional dist
 
 An interactive Power BI dashboard designed to track and analyze mobile sales performance, customer preferences, regional revenue distribution, and payment trends.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 📊 Key Performance Indicators (KPIs)
 * **Total Sales:** 62M
